@@ -1,7 +1,7 @@
 let movieTitle: string = "Amadeus"
 movieTitle.toUpperCase()
 
-let numCatLives: number = 9
+let numCatLives: number = 10
 
 numCatLives++
 
